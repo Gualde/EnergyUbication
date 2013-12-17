@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EnergyUbication</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ubicacion">Ubicación actual:</string>
+    <string name="activar">Activar</string>
+    <string name="desactivar">Desactivar</string>
+    <string name="proveedor_estado">Estado del proveedor:</string>
+    <string name="estado">Estado</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="precision">Precisión</string>
+    <string name="title_activity_greeting">Greeting</string>
+
+</resources>
